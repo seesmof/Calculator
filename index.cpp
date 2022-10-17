@@ -63,5 +63,5 @@ int main(int argc, char **argv)
     cout << "*********************************************************************" << endl;
 
     // end main function
-    return 0;
+    system("pause");
 }
